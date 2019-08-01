@@ -1,0 +1,15 @@
+body {
+  background-color: white;
+}
+body{font-style:Serif; }
+form{font-style:oblique; }
+img{width:300px
+;height: 300px}
+img{display: block;
+margin: auto;}
+img{border-style: dotted;}
+a:hover{
+	color: red;
+}
+h5::before{ content: "\260F" ;
+font-size: 100px;}
