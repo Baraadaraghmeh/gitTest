@@ -13,3 +13,5 @@ a:hover{
 }
 h5::before{ content: "\260F" ;
 font-size: 100px;}
+h5::before{ content: "\260F" ;
+font-size: 100px;}
